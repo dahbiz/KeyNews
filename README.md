@@ -7,3 +7,4 @@ This project uses NewsAPI API to gain access to the last news, related to a spec
 This idea is developed and submitted as a OneMonth assignment. 
 For more info! Contact me: etriziko@gmail.com
 
+![ ](https://raw.githubusercontent.com/etriZiko/KeyNews/master/Grade.png)
